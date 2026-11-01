@@ -1,6 +1,6 @@
-** 👋 About Me: **
+### About Me: 
 
-Hi, I'm Muneeza MSc Data Science graduate with 5+ years of freelance experience in data analytics and data visualisation built alongside my studies.
+Hi, I'm Muneeza MSc Data Science graduate with 5+ years of freelance experience in data analytics and data visualisation built alongside my studies. Skilled in Power BI, SQL, Python and Excel, I turn complex data into insights and recommendations that drive growth.
 
 ---
 
