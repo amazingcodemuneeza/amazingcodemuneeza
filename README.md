@@ -1,4 +1,4 @@
-// 👋 About Me:
+** 👋 About Me: **
 
 Hi, I'm Muneeza MSc Data Science graduate with 5+ years of freelance experience in data analytics and data visualisation built alongside my studies.
 
